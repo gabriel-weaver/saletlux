@@ -19,4 +19,4 @@ grand challenges of our century.  The only way we will meet these challenges
 is by empowering people and societies to tackle them head on; we intend to 
 enable them to do exactly that.
 
-
+[More](https://github.com/gabriel-weaver/saletlux/wiki)
